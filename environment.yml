@@ -1,0 +1,17 @@
+name: zf-gp
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - jupyterlab
+  - pandas
+  - numpy=2.0
+  - scipy
+  - scikit-learn
+  - matplotlib>=3.2.1 
+  - bayesian-optimization
+  - absl-py>=0.13
+  - pybind11>=2.5.0
+  - hnswlib>=0.6.0
+  - pip
